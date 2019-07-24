@@ -1,3 +1,3 @@
 # demo
 
-ahahhahe
+摄像头，指纹等练习
